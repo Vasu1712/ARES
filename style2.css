@@ -1,0 +1,36 @@
+.info{
+    font-size:30px; 
+    color:white; 
+    font-weight:bold; 
+    text-align:center; 
+    margin-left: 30px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_1280.jpg");
+    border-radius: 10px;
+    width: 500px;
+    
+    
+    
+}
+ 
+   
+ }
+  
+   body{ 
+
+	background-color:black;
+	display:inline-block;
+	align-items:center;
+	justify-content: center;
+	height: 100vh;
+    margin-left: 20%;
+    margin-right: 20%;
+	
+  }
+ .contact{ 
+    font-size:20px; 
+    color:#090; 
+    font-weight:bold; 
+    text-align:center; 
+    margin-left: 30px;
+ 
+}
